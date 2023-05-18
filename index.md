@@ -2,13 +2,13 @@
 
 ---
 
-###   Forcastion time series 
+###   Forcast time series 
 
-[forcastion national gas consumption in Algeria ](/sample_page)
+[forcast of national gas consumption in Algeria ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Etude exploratoire sur la p^récarioté énergétiuqe ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
